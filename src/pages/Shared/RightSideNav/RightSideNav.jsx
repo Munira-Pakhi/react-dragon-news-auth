@@ -1,4 +1,4 @@
-import { FaFacebook, FaGithub, FaGoogle, FaInstagram, FaTwitch, FaTwitter } from "react-icons/fa";
+import { FaFacebook, FaGithub, FaGoogle, FaInstagram,  FaTwitter } from "react-icons/fa";
 import qZone1 from '../../../assets/qZone1.png';
 import qZone2 from '../../../assets/qZone2.png';
 import qZone3 from '../../../assets/qZone3.png';
